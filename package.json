@@ -18,9 +18,10 @@
     "url": "https://github.com/hongymagic/statik/issues"
   },
   "dependencies": {
+    "connect": "~2.11.0",
     "extend": "~1.2.1",
-    "nopt": "~2.1.2",
-    "connect": "~2.11.0"
+    "heroku-ssl-redirect": "0.0.4",
+    "nopt": "~2.1.2"
   },
   "devDependencies": {},
   "main": "index",
