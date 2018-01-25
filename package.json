@@ -20,7 +20,7 @@
   "dependencies": {
     "connect": "~2.11.0",
     "extend": "~1.2.1",
-    "is-https": "^1.0.0",
+    "is-req-https": "^1.0.5",
     "nopt": "~2.1.2"
   },
   "devDependencies": {},
